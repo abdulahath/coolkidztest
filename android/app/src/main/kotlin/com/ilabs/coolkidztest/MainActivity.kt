@@ -1,0 +1,6 @@
+package com.ilabs.coolkidztest
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
