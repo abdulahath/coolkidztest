@@ -77,7 +77,6 @@ class _MyWebViewWidgetState extends State<MyWebViewWidget>
 
                             initialSettings: InAppWebViewSettings(
                               javaScriptCanOpenWindowsAutomatically: true,
-                              supportMultipleWindows: true,
                               useShouldOverrideUrlLoading: true,
                               mediaPlaybackRequiresUserGesture: false,
                               allowsInlineMediaPlayback: true,
